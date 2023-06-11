@@ -1,3 +1,0 @@
-FROM jupyter/pyspark-notebook:latest
-
-RUN pip install "jupyterlab>=3"s
